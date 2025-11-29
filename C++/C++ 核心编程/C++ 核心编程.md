@@ -122,7 +122,7 @@ int main() {
 }
 ```
 
-![image-20251124112721325](attachments\image-20251129144250650.png)
+![image-20251124112721325](attachments\123.png)
 
 总结：
 
@@ -4281,7 +4281,7 @@ int main() {
 
 输入以下命令：`cl /d1 reportSingleClassLayout类名 文件名.cpp`
 
-<img src="C:\Users\jack\Desktop\学习笔记\C&cpp\attachments\image-20251129144250650.png" alt="image-20251129144250650" style="zoom:33%;" />
+![C++ 基础编程](attachments/1234.png)
 
 ```
 class Son size(16):
