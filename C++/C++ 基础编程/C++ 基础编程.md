@@ -1,6 +1,6 @@
 # C++ 基础编程
 
-![C++ 基础编程](attachments/C++ 基础编程.png)
+![C++ 基础编程](attachments/C++%20基础编程.png)
 
 # 初始 C++
 
